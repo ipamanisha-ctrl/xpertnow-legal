@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XpertNow - Privacy Policy</title>
+    <style>
+        body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.7;max-width:900px;margin:0 auto;padding:20px;background:#f8fafc;color:#1e293b}
+        .header{background:linear-gradient(135deg,#6366f1,#8b5cf6);color:#fff;padding:30px;border-radius:12px;margin-bottom:30px;text-align:center}
+        .header h1{margin:0 0 10px;font-size:28px}.header p{margin:5px 0;opacity:.9}
+        .content{background:#fff;padding:30px;border-radius:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)}
+        h2{color:#6366f1;border-bottom:2px solid #e2e8f0;padding-bottom:10px;margin-top:30px}
+        h3{color:#475569;margin-top:20px}
+        ul{padding-left:25px}li{margin-bottom:8px}
+        .info{background:#f1f5f9;padding:20px;border-radius:8px;margin:20px 0}.info p{margin:5px 0}
+        .footer{text-align:center;margin-top:30px;padding:20px;color:#64748b;font-size:14px}
+        strong{color:#334155}a{color:#6366f1}
+        .section{margin-bottom:25px}
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Privacy Policy</h1>
+        <p><strong>Set Sprout Solutions Private Limited</strong></p>
+        <p>(Operating the XpertNow Platform)</p>
+        <p>Effective Date: 13 March 2026</p>
+    </div>
+    
+    <div class="content">
+        <p><strong>Set Sprout Solutions Private Limited</strong> ("Company", "we", "our", or "us") operates XpertNow, a platform that connects users with verified professionals such as Chartered Accountants, Cost Accountants, Company Secretaries, Lawyers, Consultants, Educators, and Wellness Experts for consultation services.</p>
+        
+        <p>This Privacy Policy explains how we collect, use, disclose, and protect your information when you use the XpertNow mobile application, website, and related services (collectively referred to as the "Platform").</p>
+        
+        <p><strong>By using XpertNow, you agree to the practices described in this Privacy Policy.</strong></p>
+
+        <h2>1. Information We Collect</h2>
+        
+        <h3>Personal Information</h3>
+        <p>When you create an account or use the platform, we may collect:</p>
+        <ul>
+            <li>Full Name</li>
+            <li>Email Address</li>
+            <li>Mobile Number</li>
+            <li>Profile Details</li>
+            <li>Profile Photo (optional)</li>
+            <li>Billing Information</li>
+            <li>Address (if required for invoicing)</li>
+        </ul>
+
+        <h3>Additional Information for Experts</h3>
+        <p>Experts may also be required to provide:</p>
+        <ul>
+            <li>Professional qualifications</li>
+            <li>Professional licenses or registrations</li>
+            <li>Work experience details</li>
+            <li>Government ID for verification</li>
+            <li>Bank account details for payouts</li>
+            <li>PAN or GST details (if applicable)</li>
+        </ul>
+
+        <h2>2. Consultation Information</h2>
+        <p>When consultations take place through the platform, we may collect:</p>
+        <ul>
+            <li>Consultation booking details</li>
+            <li>Questions submitted by users</li>
+            <li>Consultation duration</li>
+            <li>Call connection details</li>
+            <li>Feedback and ratings</li>
+        </ul>
+
+        <h3>Call Recording</h3>
+        <p>Consultation calls conducted through XpertNow may be recorded for:</p>
+        <ul>
+            <li>Quality assurance</li>
+            <li>Training purposes</li>
+            <li>Dispute resolution</li>
+            <li>Compliance and security</li>
+        </ul>
+        <p><strong>By using the platform, both users and experts consent to call recording.</strong></p>
+
+        <h2>3. Payment Information</h2>
+        <p>Payments on XpertNow are processed through secure third-party payment gateways.</p>
+        <p>We may collect:</p>
+        <ul>
+            <li>Transaction ID</li>
+            <li>Payment amount</li>
+            <li>Payment method</li>
+            <li>Billing details</li>
+        </ul>
+        <p><strong>We do not store complete credit card or debit card information.</strong></p>
+
+        <h2>4. Device & Technical Information</h2>
+        <p>When you use the platform, we may automatically collect:</p>
+        <ul>
+            <li>Device type</li>
+            <li>Operating system</li>
+            <li>IP address</li>
+            <li>Browser type</li>
+            <li>App version</li>
+            <li>Log files</li>
+            <li>Usage statistics</li>
+        </ul>
+        <p>This information helps improve platform performance and security.</p>
+
+        <h2>5. Referral & Promotional Information</h2>
+        <p>If you participate in referral or promotional programs, we may collect:</p>
+        <ul>
+            <li>Referral codes</li>
+            <li>Referral activity</li>
+            <li>Contact information of referred users (if provided)</li>
+        </ul>
+
+        <h2>6. How We Use Your Information</h2>
+        
+        <h3>Provide Services</h3>
+        <ul>
+            <li>Create and manage user accounts</li>
+            <li>Enable consultations between users and experts</li>
+            <li>Schedule calls and consultations</li>
+            <li>Process payments and transactions</li>
+        </ul>
+
+        <h3>Manage the Platform</h3>
+        <ul>
+            <li>Verify expert credentials</li>
+            <li>Manage profiles and listings</li>
+            <li>Monitor consultations</li>
+            <li>Provide customer support</li>
+        </ul>
+
+        <h3>Improve the Platform</h3>
+        <ul>
+            <li>Analyze user behavior</li>
+            <li>Improve functionality</li>
+            <li>Enhance service quality</li>
+        </ul>
+
+        <h3>Security & Compliance</h3>
+        <ul>
+            <li>Detect fraud or misuse</li>
+            <li>Enforce platform policies</li>
+            <li>Comply with legal requirements</li>
+        </ul>
+
+        <h3>Communication</h3>
+        <ul>
+            <li>Send service notifications</li>
+            <li>Send booking confirmations and reminders</li>
+            <li>Send promotional offers (with consent)</li>
+        </ul>
+        <p>Users can opt out of marketing communications anytime.</p>
+
+        <h2>7. Sharing of Information</h2>
+        <p><strong>We do not sell personal data.</strong></p>
+        <p>Information may be shared only in the following situations:</p>
+
+        <h3>With Experts</h3>
+        <p>Relevant user information may be shared with the selected expert to enable the consultation.</p>
+
+        <h3>With Service Providers</h3>
+        <p>Trusted third-party providers such as:</p>
+        <ul>
+            <li>Payment gateways</li>
+            <li>Cloud hosting providers</li>
+            <li>Analytics services</li>
+            <li>Customer support tools</li>
+        </ul>
+        <p>These providers are required to maintain data confidentiality.</p>
+
+        <h3>Legal Compliance</h3>
+        <p>We may disclose information if required by law or legal authorities.</p>
+
+        <h2>8. Data Security</h2>
+        <p>We use industry-standard security practices including:</p>
+        <ul>
+            <li>Data encryption</li>
+            <li>Secure cloud infrastructure</li>
+            <li>Access control systems</li>
+            <li>Monitoring for unauthorized access</li>
+        </ul>
+        <p>However, no online system can guarantee absolute security.</p>
+
+        <h2>9. Data Retention</h2>
+        <p>We retain personal data only as long as necessary to:</p>
+        <ul>
+            <li>Provide our services</li>
+            <li>Meet legal obligations</li>
+            <li>Resolve disputes</li>
+            <li>Maintain financial records</li>
+        </ul>
+        <p>Consultation recordings may be stored for a limited time according to internal policies.</p>
+
+        <h2>10. Your Rights</h2>
+        <p>Depending on applicable law, users may have the right to:</p>
+        <ul>
+            <li>Access personal data</li>
+            <li>Correct inaccurate information</li>
+            <li>Request deletion of personal data</li>
+            <li>Withdraw consent</li>
+            <li>Opt out of marketing communications</li>
+        </ul>
+        <p>Requests can be made using the contact details below.</p>
+
+        <h2>11. Children's Privacy</h2>
+        <p>XpertNow is not intended for individuals under 18 years of age.</p>
+        <p>We do not knowingly collect personal information from minors.</p>
+
+        <h2>12. Third-Party Links</h2>
+        <p>The platform may contain links to third-party websites or services.</p>
+        <p>Set Sprout Solutions Private Limited is not responsible for the privacy practices of those third parties.</p>
+
+        <h2>13. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy periodically.</p>
+        <p>Updates will be posted with a revised Effective Date. Continued use of the platform means you accept the updated policy.</p>
+
+        <h2>14. Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy, please contact:</p>
+        <div class="info">
+            <p><strong>Set Sprout Solutions Private Limited</strong></p>
+            <p>(Operator of XpertNow)</p>
+            <p>📧 <a href="mailto:support@xpertnow.in">support@xpertnow.in</a></p>
+            <p>🌐 <a href="https://www.xpertnow.in">www.xpertnow.in</a></p>
+            <p><strong>Registered Address:</strong></p>
+            <p>336, Vipul Trade Centre<br>Sector-48, Sohna Road<br>Gurgaon, Haryana, India</p>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p>© 2026 Set Sprout Solutions Private Limited. All rights reserved.</p>
+        <p>XpertNow - Connect with Experts</p>
+    </div>
+</body>
+</html>
